@@ -102,9 +102,11 @@
 </div>
 
 ## 🐍 Contribution Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/venky-Gondu/venky-Gondu/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venky-gondu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venky-gondu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ## 🌱 Current Learning Focus
 - 🚀 Spring Boot Advanced Architectures
