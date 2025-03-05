@@ -62,14 +62,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venky-Gondu&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venky-Gondu&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</div>
 
----
 
 ## 🐍 Contribution Graph
 <div align="center">
