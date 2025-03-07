@@ -17,122 +17,25 @@
 ## 🚀 Tech Stack
 
 
-<style>
-  .tech-section {
-    margin-bottom: 30px;
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 15px;
-  }
-  
-  .section-title {
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin-bottom: 15px;
-  }
-  
-  .icon-row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 20px;
-    align-items: center;
-  }
-  
-  .icon-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 80px;
-  }
-  
-  .icon {
-    width: 60px;
-    height: 60px;
-    object-fit: contain;
-  }
-  
-  .icon-label {
-    margin-top: 5px;
-    font-size: 0.8rem;
-    text-align: center;
-  }
-</style>
+### 💻 Languages 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>  
 
-<div class="tech-stack">
-  <div class="tech-section">
-    <div class="section-title">💻 Languages</div>
-    <div class="icon-row">
-      <div class="icon-container">
-        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-        <div class="icon-label">Java</div>
-      </div>
-      <div class="icon-container">
-        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-        <div class="icon-label">Python</div>
-      </div>
-    </div>
-  </div>
-  
-  <div class="tech-section">
-    <div class="section-title">🤖 AI & Machine Learning</div>
-    <div class="icon-row">
-      <div class="icon-container">
-        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
-        <div class="icon-label">TensorFlow</div>
-      </div>
-      <div class="icon-container">
-        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
-        <div class="icon-label">PyTorch</div>
-      </div>
-      <div class="icon-container">
-        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras"/>
-        <div class="icon-label">Keras</div>
-      </div>
-      <div class="icon-container">
-        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/>
-        <div class="icon-label">NumPy</div>
-      </div>
-      <div class="icon-container">
-        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn"/>
-        <div class="icon-label">Scikit-Learn</div>
-      </div>
-      <div class="icon-container">
-        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"/>
-        <div class="icon-label">Pandas</div>
-      </div>
-    </div>
-  </div>
-  
-  <div class="tech-section">
-    <div class="section-title">📊 Tools and Frameworks</div>
-    <div class="icon-row">
-      <div class="icon-container">
-        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
-        <div class="icon-label">PostgreSQL</div>
-      </div>
-      <div class="icon-container">
-        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="Tomcat"/>
-        <div class="icon-label">Tomcat</div>
-      </div>
-      <div class="icon-container">
-        <img class="icon" src="https://spring.io/img/spring.svg" alt="Spring Boot"/>
-        <div class="icon-label">Spring Boot</div>
-      </div>
-      <div class="icon-container">
-        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate"/>
-        <div class="icon-label">Hibernate</div>
-      </div>
-      <div class="icon-container">
-        <img class="icon" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"/>
-        <div class="icon-label">Postman</div>
-      </div>
-      <div class="icon-container">
-        <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira"/>
-        <div class="icon-label">Jira</div>
-      </div>
-    </div>
-  </div>
-</div> 
+### 🤖 AI & Machine Learning  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50" alt="Keras"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-Learn"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>  
+
+### 📊 Tools and Frameworks 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50" height="50" alt="Tomcat"/>  
+<img src="https://spring.io/img/spring.svg" width="50" height="50" alt="Spring Boot"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="50" height="50" alt="Hibernate"/>  
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" height="50" alt="Jira"/>
 
   
 
