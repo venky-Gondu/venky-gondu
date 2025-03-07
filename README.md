@@ -85,6 +85,6 @@
 - 🤖 AI Agent Development  
 - 🧠 LLM Architectures
 
-<div align="center">
-  <img src="https://your-banner-url-here.com/banner.png" width="100%" height="70" alt="Bottom Banner">
-</div>  
+<p align="center">
+  <img src="bottom_header.svg" alt="Bottom Header"/>
+</p> 
