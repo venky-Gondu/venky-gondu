@@ -85,6 +85,8 @@
 - 🤖 AI Agent Development  
 - 🧠 LLM Architectures
 
-<p align="center">
-  <img src="bottom_header.svg" alt="Bottom Header"/>
-</p> 
+<div align="center">
+  
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=151&color=gradient&reversal=true&section=footer)
+
+</div>
