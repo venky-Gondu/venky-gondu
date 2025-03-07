@@ -83,4 +83,8 @@
 ## 🌱 Current Learning Focus
 - 🚀 Spring Boot Advanced Architectures  
 - 🤖 AI Agent Development  
-- 🧠 LLM Architectures  
+- 🧠 LLM Architectures
+
+<div align="center">
+  <img src="https://your-banner-url-here.com/banner.png" width="100%" height="70" alt="Bottom Banner">
+</div>  
